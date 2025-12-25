@@ -1,0 +1,3 @@
+conda create -p venv python==3.10 -y
+conda activate "D:\Large Language Model\End To End Youtube Video Transcribe Summarizer LLM App With Google Gemini Pro\venv"
+pip install -r requirements.txt
